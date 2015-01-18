@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=100
+objectbench.width=606
+package.editor.height=307
+package.editor.width=504
+package.editor.x=646
+package.editor.y=203
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=696
+target1.editor.width=960
+target1.editor.x=320
+target1.editor.y=22
+target1.height=50
+target1.name=Lab02
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=10
